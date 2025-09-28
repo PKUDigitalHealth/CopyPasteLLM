@@ -7,8 +7,7 @@ Authors: **Yongchao Long**$^{1,2}$ **Xian Wu**$^{3}$ **Yingying Zhang**$^{3}$ **
 $^{1}$ Department of Computer Science, Tianjin University of Technology, Tianjin, China  
 $^{2}$ National Institute of Health Data Science, Peking University, Beijing, China  
 $^{3}$ Tencent Jarvis Lab, Shenzhen, China  
-
-$^\dagger$Corresponding author
+$^\dagger$ Corresponding author
 
 ---
 
