@@ -25,3 +25,18 @@ All implementations will be made public after the paper is published.
 
 Model parameters can be downloaded from:  [🤗CopyPasteLLM-L3-8B](https://huggingface.co/wingchiuloong/CopyPasteLLM-L3-8B)
 
+## Citation
+
+If you find this project helpful for your research, please consider citing our paper.
+
+```bibtex
+@misc{long2025copypastemitigatelargelanguage,
+      title={Copy-Paste to Mitigate Large Language Model Hallucinations}, 
+      author={Yongchao Long and Xian Wu and Yingying Zhang and Xianbin Wen and Yuxi Zhou and Shenda Hong},
+      year={2025},
+      eprint={2510.00508},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2510.00508}, 
+}
+```
