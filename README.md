@@ -3,6 +3,13 @@
 [![Arxiv](https://img.shields.io/badge/arXiv-2510.00508-B21A1B)](https://arxiv.org/abs/2510.00508)
 [![Hugging Face Transformers](https://img.shields.io/badge/%F0%9F%A4%97-Transformers-blue)](https://huggingface.co/wingchiuloong/CopyPasteLLM-L3-8B)
 
+## News 📰
+
+- **[2026-01-26]** 🎉 This paper has been accepted by **ICLR 2026**! We will release the full code soon. 🚀
+- **[2025-12-17]** 🏆 This paper received the **Best Poster Award** at BIBM 2025 Advancing Data for Better Health Workshop.
+
+---
+
 Authors: **Yongchao Long**$^{1,2}$ **Xian Wu**$^{3}$ **Yingying Zhang**$^{3}$ **Xianbin Wen**$^{1}$ **Yuxi Zhou**$^{1,\dagger}$ **Shenda Hong**$^{2,\dagger}$  
 
 $^{1}$ Department of Computer Science, Tianjin University of Technology, Tianjin, China  
