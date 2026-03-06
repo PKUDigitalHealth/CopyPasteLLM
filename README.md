@@ -37,14 +37,13 @@ Model parameters can be downloaded from:  [🤗CopyPasteLLM-L3-8B](https://huggi
 If you find this project helpful for your research, please consider citing our paper.
 
 ```bibtex
-@misc{long2025copypastemitigatelargelanguage,
-      title={Copy-Paste to Mitigate Large Language Model Hallucinations}, 
-      author={Yongchao Long and Xian Wu and Yingying Zhang and Xianbin Wen and Yuxi Zhou and Shenda Hong},
-      year={2025},
-      eprint={2510.00508},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2510.00508}, 
+@inproceedings{
+long2026copypaste,
+title={Copy-Paste to Mitigate Large Language Model Hallucinations},
+author={Yongchao Long and Yingying Zhang and Xianbin Wen and Xian Wu and Yuxi Zhou and Shenda Hong},
+booktitle={The Fourteenth International Conference on Learning Representations},
+year={2026},
+url={https://openreview.net/forum?id=crKJJ4Ej60}
 }
 ```
 
