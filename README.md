@@ -47,3 +47,11 @@ If you find this project helpful for your research, please consider citing our p
       url={https://arxiv.org/abs/2510.00508}, 
 }
 ```
+
+## Acknowledgement
+
+Welcome to follow our research group: **[PKU Digital Health](https://github.com/PKUDigitalHealth)** (Shenda Hong's Lab, National Institute of Health Data Science, Peking University).
+
+Mirror repository: [PKUDigitalHealth/CopyPasteLLM](https://github.com/PKUDigitalHealth/CopyPasteLLM)
+
+Feel free to check out our other works as well!
