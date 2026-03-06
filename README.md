@@ -1,7 +1,9 @@
 # Copy-Paste to Mitigate Large Language Model Hallucinations
 
 [![Arxiv](https://img.shields.io/badge/arXiv-2510.00508-B21A1B)](https://arxiv.org/abs/2510.00508)
+[![OpenReview](https://img.shields.io/badge/OpenReview-ICLR%202026-8C1B13)](https://openreview.net/forum?id=crKJJ4Ej60)
 [![Hugging Face Transformers](https://img.shields.io/badge/%F0%9F%A4%97-Transformers-blue)](https://huggingface.co/wingchiuloong/CopyPasteLLM-L3-8B)
+[![WeChat Blog](https://img.shields.io/badge/WeChat-公众号文章-07C160?logo=wechat&logoColor=white)](https://mp.weixin.qq.com/s/KMv6dQfwSk5rRd6c3I49LQ)
 
 Authors: **Yongchao Long**$^{1,2}$  **Yingying Zhang**$^{3}$ **Xianbin Wen**$^{1}$ **Xian Wu**$^{3,\dagger}$ **Yuxi Zhou**$^{1,\dagger}$ **Shenda Hong**$^{2,\dagger}$  
 
