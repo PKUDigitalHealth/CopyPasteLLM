@@ -15,6 +15,7 @@ $^\dagger$ Corresponding author
 
 ## News 📰
 
+- **[2026-03-07]** ✨ **Training Data Released!** We've released [CopyPasteSeed365](https://huggingface.co/datasets/wingchiuloong/CopyPasteSeed365), a high-copying seed dataset derived from PubMedQA, FaithEval, and RAGTruth.
 - **[2026-01-26]** 🎉 This paper has been accepted by **ICLR 2026**! We will release the full code soon. 🚀
 - **[2025-12-17]** 🏆 This paper received the **Best Poster Award** at BIBM 2025 Advancing Data for Better Health Workshop.
 - **[2025-09-28]** 🤗 Released the model weights of [CopyPasteLLM](https://huggingface.co/wingchiuloong/CopyPasteLLM-L3-8B) (based on Llama3-8B-Instruct)!  
