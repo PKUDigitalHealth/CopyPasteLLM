@@ -1,0 +1,63 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "CopyPasteLLM"
+version = "0.1.0"
+description = "Copy-paste pipelines for extractive RAG with hallucination mitigation"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+    {name = "Yongchao Long", email = "774817136@qq.com"},
+]
+keywords = ["rag", "nlp", "hallucination", "extractive-generation", "dpo", "copy-paste"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+]
+
+dependencies = [
+    "langchain-openai>=0.2.0",
+    "langgraph>=0.2.0",
+    "jieba>=0.42.0",
+    "httpx>=0.27.0",
+    "typing-extensions>=4.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "black>=24.0.0",
+    "ruff>=0.1.0",
+]
+viz = [
+    "matplotlib>=3.7.0",
+    "scipy>=1.10.0",
+]
+full = ["CopyPasteLLM[dev,viz]"]
+
+[project.urls]
+Homepage = "https://github.com/wingchiuloong/CopyPasteLLM"
+Documentation = "https://github.com/wingchiuloong/CopyPasteLLM#readme"
+Repository = "https://github.com/wingchiuloong/CopyPasteLLM"
+Paper = "https://openreview.net/forum?id=crKJJ4Ej60"
+
+[tool.hatch.build.targets.wheel]
+packages = ["CopyPasteLLM"]
+
+[tool.black]
+line-length = 100
+target-version = ['py310']
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"

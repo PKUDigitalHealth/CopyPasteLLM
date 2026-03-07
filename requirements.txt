@@ -1,0 +1,10 @@
+# Core dependencies
+openai>=1.0.0
+langgraph>=0.2.0
+jieba>=0.42.0
+python-dotenv>=1.0.0
+typing-extensions>=4.0.0
+
+# Optional dependencies for visualization
+matplotlib>=3.7.0
+scipy>=1.10.0
